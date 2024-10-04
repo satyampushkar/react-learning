@@ -72,3 +72,17 @@ Functional Component - NEW
 - can use function or arrow function 
 
 
+# plan for application
+
+
+
+
+Config Driven UI 
+- means UI is driven by config
+- config data comes from backend
+
+Why Id is required while using loop or map?
+- if not given, react wil re render all the components
+- never use index as a key (index as a key as an anti pattern)
+
+
