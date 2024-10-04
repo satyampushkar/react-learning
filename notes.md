@@ -51,3 +51,24 @@ Reason aap.js is added as a browser script; add type="module"
 
 
 https://browserslist.dev/
+
+
+add scripts in package.json
+npm run start or npm start
+
+jsx is simple and easy way to create react object(s)
+parcel(babel under the hood) traspiled JSX, before it reaches JS engine
+
+https://babeljs.io/ is a Javascript compiler.
+
+
+React Component
+Class based component - OLD
+Functional Component - NEW
+- returns JSX (in turn a react element) as a function
+- name should start with Capital (const FunctionalComp = ...)
+- While rendering use like this .render(<FunctionalComp />)
+- Componenet composition: component inside another component
+- can use function or arrow function 
+
+
